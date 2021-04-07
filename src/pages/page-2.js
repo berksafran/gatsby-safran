@@ -13,6 +13,7 @@ const SecondPage = () => (
     <p className="btn-yellow">Welcome to page 2</p>
     <hr></hr>
     <Test />
+
     <hr></hr>
     <Link to="/">Go back to the homepage</Link>
   </Layout>
